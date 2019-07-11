@@ -1,0 +1,9 @@
+email_address = "xxx.com"
+email_pop3_url = "pop.exmail.qq.com"
+email_pop3_ursename = "redirect@xxx.com"
+email_pop3_password = "xxx"
+
+course_url = "xxx"
+
+begin = 1
+end = 1000
